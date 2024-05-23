@@ -1,8 +1,0 @@
-#.gitignore
-Supervised learning/Week 1/Cost Function/__pycache__/
-Supervised learning/Week 1/Cost Function/images/
-Supervised learning/Week 1/Cost Function/data.txt
-Supervised learning/Week 1/Cost Function/deeplearning.mplstyle
-Supervised Learning/Week 1/Cost Function/lab_utils_common.py
-Supervised Learning/Week 1/Cost Function/lab_utils_uni.py
-Supervised Learning/Week 1/Cost Function/new-workspace.jupyterlab-workspace
